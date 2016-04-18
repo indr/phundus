@@ -14,7 +14,7 @@ I'd love to hear from you and appreciate your suggestions/complaints/bug reports
 
 The project consists of two part. The single page application [phundus-spa](https://github.com/indr/phundus-spa) as the frontend and an ASP.NET MVC / WebAPI backend which has not been released as open source.
 
-## Issue Tracker
+### Issue Tracker
 
 We keep track of features and issues on a private Trello board. Drop me a line if you would like to access it and participate in the discussions.
 
